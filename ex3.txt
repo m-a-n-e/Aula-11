@@ -1,0 +1,8 @@
+    3. Dado o array [8, 6, 4, 2, 0], uma chamada de ordenação através do algoritimo
+Quick Sort, cujo a assinatura da função é quick_sort(array, inicio, final) é feita de
+qual forma?
+        a) quick_sort( array, 8, 0 );
+        b) quick_sort( array );
+        c) quick_sort( [8, 6, 4, 2, 0] );
+        d) quick_sort( array, 0, len(array) – 1);
+    R: D.
